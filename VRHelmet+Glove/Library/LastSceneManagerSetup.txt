@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Hi5_Interaction_SDK/Scenes/TableScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
